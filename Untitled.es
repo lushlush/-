@@ -8,6 +8,7 @@ regards to this file format.
 
 [Experiment]
 VersionMajor=1
+
 VersionMinor=1
 VersionInternal=4
 VersionBuild=1
